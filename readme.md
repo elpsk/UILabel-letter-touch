@@ -4,6 +4,9 @@
 Detect letter pressed on UILabel, subclassing UILabel class.
 
 
+![A Screenshot](https://raw.github.com/elpsk/UILabel-letter-touch/master/ss.png "A")
+
+
 ```
 - (void)didLetterFound:(char)letter
 {
